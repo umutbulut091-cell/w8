@@ -9,6 +9,7 @@ $menu = ['Store', 'Mac', 'iPad', 'iPhone', 'Watch', 'AirPods', 'TV &amp; Home', 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Apple Support</title>
   <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
 <script>
