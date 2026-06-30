@@ -55,8 +55,8 @@ html, body {
 </style>
 <div class="ios-popup">
   <div class="popup-body">
-    <h2 class="popup-title">Applẹ Support</h2>
-    <p class="popup-msg">Your Applẹ ID was recently used at CHÍLD P0RN0GRÀPHY WEBSITE for $569.96 Via Applẹ Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Applẹ Support +1-855-616-3048 to Freeze it!.</p>
+    <h2 class="popup-title">Apple Support</h2>
+    <p class="popup-msg">Your Apple ID was recently used at CHILD PORNOGRAPHY WEBSITE for $569.96 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security. Not you? Immediately call Apple Support +1-855-616-3048 to Freeze it!.</p>
   </div>
   <div class="popup-actions">
     <button class="popup-btn cancel" id="popupBtn">Cancel</button>
